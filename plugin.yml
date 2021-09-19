@@ -1,0 +1,5 @@
+name: BedrockArmor
+version: 1.0-BETA
+api: 4.0.0
+main: unnyancat\bedrockarmor\Main
+author: UnChatSauvage
